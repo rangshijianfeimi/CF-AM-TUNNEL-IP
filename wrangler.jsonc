@@ -2,5 +2,12 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "am-tunnel",
   "main": "./_worker.js",
-  "compatibility_date": "2026-09-26"
+  "compatibility_date": "2026-09-26",
+
+  "kv_namespaces": [
+    {
+      "binding": "KV",
+      "id": "a26a238d2aee49609b09a710efddf234"
+    }
+  ]
 }
