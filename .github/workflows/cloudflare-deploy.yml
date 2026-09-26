@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   deploy:
-    name: Deploy am-tunnel
+    name: Deploy am-tunnel-ip
     runs-on: ubuntu-latest
 
     steps:
