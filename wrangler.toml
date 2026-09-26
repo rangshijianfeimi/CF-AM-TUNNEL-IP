@@ -1,0 +1,8 @@
+# 自动部署worker
+name = "am-tunnel"
+main = "_worker.js"
+compatibility_date = "2026-09-26"
+
+[[kv_namespaces]]
+binding = "amclubs"
+id = "a26a238d2aee49609b09a710efddf234"
